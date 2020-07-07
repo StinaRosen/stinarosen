@@ -30,11 +30,10 @@ p {
 .container {
   margin: auto;
   width: 800px;
-
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), linear-gradient(rgba(0, 0, 0, 0.6)), url("images/background.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/background.jpg");
   background-position: center;
   background-size: cover;
   padding: 150px 0;
